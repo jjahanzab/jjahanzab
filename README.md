@@ -45,8 +45,11 @@
 
 <br />
 <br />
+<br />
 
 <img alt="Snake" width="100%" src="images/snake.svg"/>
+
+<br />
 
 <h2>Let's Make Connection 🔗</h2>
 
