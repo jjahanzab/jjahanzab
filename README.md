@@ -43,7 +43,9 @@
 <img align="left" alt="Slack" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
 
------
+<br />
+----
+<br />
 
 <img alt="Snake" width="100%" src="images/snake.svg"/>
 
@@ -60,5 +62,3 @@
 [facebook]: https://www.facebook.com/jahanzabsabir
 [twitter]: https://twitter.com/Jahanzab_Sabir
 [instagram]: https://instagram.com/jahanzab.sabir
-
--
