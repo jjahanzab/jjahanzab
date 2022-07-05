@@ -48,8 +48,6 @@
 
 <img alt="Snake" width="100%" src="images/snake.svg"/>
 
-<br />
-
 <h2>Let's Make Connection 🔗</h2>
 
 [<img align="left" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />][linkedin]
