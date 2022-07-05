@@ -43,12 +43,22 @@
 <img align="left" alt="Slack" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
 
+-
+
+<img alt="Snake" width="100%" src="images/snake.svg"/>
+
 <br />
-<br />
 
+<h2>Let's make connection 🔗</h2>
 
-[twitter]: https://twitter.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[<img align="left" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/" style="padding-right:10px;" />][linkedin]
+[<img align="left" alt="Facebook" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/" style="padding-right:10px;" />][facebook]
+[<img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/" style="padding-right:10px;" />][twitter]
+[<img align="left" alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/" style="padding-right:10px;" />][instagram]
 
----
+[linkedin]: https://www.linkedin.com/in/muhammadjahanzab
+[facebook]: https://www.facebook.com/jahanzabsabir
+[twitter]: https://twitter.com/Jahanzab_Sabir
+[instagram]: https://instagram.com/jahanzab.sabir
+
+-
