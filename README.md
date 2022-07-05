@@ -35,6 +35,13 @@
 <br />
 
 ### Platforms:
+<img align="left" alt="Wordpress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Plesk" width="26px" src="https://marketplace-assets.digitalocean.com/logos/plesk-20-04.svg" style="padding-right:10px;" />
+<img align="left" alt="Heroku" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Hostinger" width="26px" src="https://iconape.com/wp-content/png_logo_vector/hostinger.png" style="padding-right:10px;" />
+<img align="left" alt="Trello" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Slack" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
 
 <br />
 <br />
