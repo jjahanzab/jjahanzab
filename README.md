@@ -64,14 +64,12 @@
 ## Have a Smiley Day...😃 :<br>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<br />
-
 <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
 <br>
 
+<h2 align='center'>Let's Make Connection 🔗</h2>
 
-<h2>Let's Make Connection 🔗</h2>
-
+<p>
 [<img align="left" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />][linkedin]
 [<img align="left" alt="Facebook" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" style="padding-right:10px;" />][facebook]
 [<img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:10px;" />][twitter]
@@ -81,3 +79,4 @@
 [facebook]: https://www.facebook.com/jahanzabsabir
 [twitter]: https://twitter.com/Jahanzab_Sabir
 [instagram]: https://instagram.com/jahanzab.sabir
+<p/>
