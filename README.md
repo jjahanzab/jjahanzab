@@ -57,7 +57,7 @@
 
 | ![Jahanzab's github stats](https://github-readme-stats.vercel.app/api?username=jjahanzab&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jjahanzab&theme=tokyonight) |
 | --- | --- |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjahanzab&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/jjahanzab/github-readme-stats) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=jjahanzab&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=jjahanzab&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjahanzab&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/jjahanzab/github-readme-stats) 
 
 
 <br />
