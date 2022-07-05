@@ -1,3 +1,5 @@
+<br>
+
 <h1 align="center">Hi Fellow < Developers/ >!</h1>
 
 <br>
@@ -48,6 +50,15 @@
 <br />
 
 <img alt="Snake" width="100%" src="images/snake.svg"/>
+
+<br />
+
+[![Jahanzab's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jjahanzab&theme=tokyonight)](https://git.io/praveenscience)
+
+| ![Jahanzab's github stats](https://github-readme-stats.vercel.app/api?username=jjahanzab&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jjahanzab&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjahanzab&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=jjahanzab&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
 
 <br />
 
