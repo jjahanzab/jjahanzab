@@ -79,6 +79,8 @@
 [twitter]: https://twitter.com/Jahanzab_Sabir
 [instagram]: https://instagram.com/jahanzab.sabir
 
+<br/>
+
 -----
 **Credits**: [jjahanzab](https://github.com/jjahanzab)
 
