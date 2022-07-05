@@ -53,14 +53,24 @@
 
 <br />
 
-[![Jahanzab's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jjahanzab&theme=tokyonight)](https://git.io/praveenscience)
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jjahanzab&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+<p/>
 
 | ![Jahanzab's github stats](https://github-readme-stats.vercel.app/api?username=jjahanzab&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jjahanzab&theme=tokyonight) |
 | --- | --- |
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=jjahanzab&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjahanzab&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/jjahanzab/github-readme-stats) 
 
+<br />
+
+## Have a Smiley Day...😃 :<br>
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <br />
+
+<h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
+<br>
+
 
 <h2>Let's Make Connection 🔗</h2>
 
