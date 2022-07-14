@@ -4,7 +4,7 @@
 
 <br>
 
-<img width="100%" align="right" alt="Github" src="images/clones.gif" />
+<img width="50%" align="right" alt="Github" src="images/clones.gif" />
 
 - 🔭 I’m currently working on Online Food Order System with POS
 
