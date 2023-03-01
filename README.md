@@ -6,7 +6,7 @@
 
 <img width="60%" align="right" alt="Github" src="images/clones.gif" />
 
-- 🔭 I’m currently working on Online Food Order System with POS
+- 🔭 I’m currently working on Online and Offline POS projects
 
 - 🌱 I’m currently learning MERN (Mongo, Express, React, Node)
 
