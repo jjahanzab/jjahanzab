@@ -1,6 +1,6 @@
 <br>
 
-<h1 align="center">Hi Fellow < Developers/ >!</h1>
+<h1 align="center">Hi Fellows < Developers/ >!</h1>
 
 <br>
 
@@ -55,8 +55,6 @@
 <img alt="Snake" width="100%" src="images/snake.svg"/>
 
 <br />
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=jjahanzab&theme=react-dark&hide_border=true&area=true)
 
 | ![Jahanzab's github stats](https://github-readme-stats.vercel.app/api?username=jjahanzab&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jjahanzab&theme=tokyonight) |
 | --- | --- |
